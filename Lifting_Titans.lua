@@ -82,14 +82,3 @@ function buyEgg(eggType)
         end
     end)
 end
-
-
-280.488068, 231.287445, -435.549896
-
-239.366623, 231.287445, -408.20047
-
-b:Button("Button",function()
-    print("Elym Winning")
-end)
-
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(280.488068, 231.287445, -435.549896)
